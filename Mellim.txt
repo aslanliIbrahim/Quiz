@@ -1,0 +1,10 @@
+1. -error
+2. -undefined
+3. -true (else girmir.)
+4. - ekrana "b" cixacag
+5. -ekrana error cixacag.
+6. -(typeof typeof typeof NaN) cixacag ekrana
+7. - undefined
+8. - "Ibrahim" qayidacag...
+9. - ekrana "arg" cixacag
+10. - volvo qaytaravag.
